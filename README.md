@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Smart Travel Planner</title>
+ 
 </head>
 <body>
 
@@ -21,6 +21,7 @@
   <li><strong>Streamlit UI:</strong> Provides an interactive web interface for easy input and display of trip plans.</li>
 </ul>
 <h2>📸 Preview</h2>
+![output](https://github.com/user-attachments/assets/e8fed3a2-bec1-4c85-b0f6-7d705d9ff715)
 
 
 
@@ -64,6 +65,7 @@ TAVILY_API_KEY="YOUR_TAVILY_API_KEY"</code></pre>
 <p>After setup, run the application with:</p>
 <pre><code>streamlit run app.py</code></pre>
 <p>The app will open in your browser (usually at <a href="http://localhost:8501">http://localhost:8501</a>).</p>
+<img width="834" alt="image" src="https://github.com/user-attachments/assets/de2c6d72-a87b-4701-8983-45e5b35726dc" />
 
 <h2>🧭 Usage</h2>
 <ol>
