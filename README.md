@@ -21,6 +21,8 @@
   <li><strong>Streamlit UI:</strong> Provides an interactive web interface for easy input and display of trip plans.</li>
 </ul>
 
+<img src="output.png" alt="Langgrraph Implementation" ... />
+
 <h2>📁 Project Structure</h2>
 <ul>
   <li><strong>config.py:</strong> Handles loading environment variables (API keys) to keep sensitive information separate.</li>
