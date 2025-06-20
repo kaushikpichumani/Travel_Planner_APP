@@ -21,7 +21,8 @@
   <li><strong>Streamlit UI:</strong> Provides an interactive web interface for easy input and display of trip plans.</li>
 </ul>
 <h2>📸 Preview</h2>
-![output](https://github.com/user-attachments/assets/e8fed3a2-bec1-4c85-b0f6-7d705d9ff715)
+![image](https://github.com/user-attachments/assets/c940bd64-2851-452d-b371-dacbe65c4b8e)
+
 
 
 
