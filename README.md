@@ -20,8 +20,12 @@
   <li><strong>Modular Design:</strong> Code is structured into logical modules for better maintainability and reusability.</li>
   <li><strong>Streamlit UI:</strong> Provides an interactive web interface for easy input and display of trip plans.</li>
 </ul>
+<h2>📸 Preview</h2>
+<div style="text-align:center;">
+  <img src="output.png" alt="Langgrraph Implementation" ... />
+</div>
 
-<img src="output.png" alt="Langgrraph Implementation" ... />
+
 
 <h2>📁 Project Structure</h2>
 <ul>
