@@ -21,9 +21,6 @@
   <li><strong>Streamlit UI:</strong> Provides an interactive web interface for easy input and display of trip plans.</li>
 </ul>
 <h2>📸 Preview</h2>
-<div style="text-align:center;">
-  <img src="output.png" alt="Langgrraph Implementation" ... />
-</div>
 
 
 
